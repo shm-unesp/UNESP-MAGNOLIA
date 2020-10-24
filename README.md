@@ -18,7 +18,7 @@ The equipment, sensors, and actuators used for the experimental tests are:
 	  <li> Polytec OFV-525/-5000-S modular laser vibrometer</li>
   <li> Dytran load cell model 1022V (IEPE force sensor)</li>
   <li> Three PCB IEPE Accelerometers</li>
-  <li> m+p VibPilot acquisition system</li>
+  <li> m+p VibPilot acquisition system</li><br>
 
 The shaker was attached 50 mm distant from the clamp. Velocity was measured through the laser vibrometer in the free end of the beam. Three accelerometers were placed in: the driving point, the position of the bolt and the four masses, and in the free end of the beam.
 
@@ -35,16 +35,22 @@ Four different input signals were used to characterize the baseline condition of
 
 The description of the files of these experiments is presented in Table 2. The character "0pXY" denotes Volts' input level, where "XY" represents the digits after the floating-point.
 
-<img src="tab2.jpg " width="60%">
+<img src="tab2.jpg " width="50%">
 
 The masses were gradually removed from a total of 4 masses to simulate a structural variation. Table 3 shows the structural states simulated in the system, while the figure below exhibits a view of the bolt and nuts in the magneto-elastic system.
 
-<img src="damage.jpg " width="50%">
+<img src="damage.jpg " width="40%">
 
-<img src="tab3.jpg " width="60%">
+<img src="tab3.jpg " width="50%">
 
+For the damage detection, only two signals were used to excite the nonlinear beam:
 
-<img src="tab4.jpg " width="60%">
+<li>Chirp input from 20 to 50 Hz, with 4096 samples and input levels of: 0.01, 0.09, 0.10, 0.11, 0.12, 0.13, 0.14 and 0.15 V. Each test was repeated 50 times in order to check repeatability</li><br>
+<li>Random noise input band-pass filtered from 10 to 420 Hz, with 4096 samples and input levels of: 0.01, 0.05, 0.10, 0.11, 0.12, 0.13, 0.14 and 0.15 VRMS. Each test was repeated 50 times in order to check repeatability</li><br>
+
+The description of the files of these experiments is presented in Table 4. The character "0pXY" denotes Volts' input level, where "XY" represents the digits after the floating-point.
+
+<img src="tab4.jpg " width="50%">
 
 __________________________________________________________________________________________________
 # Authors
