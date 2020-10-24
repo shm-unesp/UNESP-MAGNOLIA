@@ -1,7 +1,6 @@
-# UNESP-MAGNOLIA: MAGNetOeLastIc beAm from UNESP SHM Lab/Ilha Solteira
+# UNESP-MAGNOLIA: MAGNetO-eLastIc beAm from UNESP SHM Lab/Ilha Solteira
 
 To download the data set of a magneto-elastic system composed of a clamped beam interacting with a permanent magnet in a mono-stable configuration with hardening behavior:
-
 
 
 __________________________________________________________________________________________________
@@ -11,18 +10,28 @@ The current structure consists of a magneto-elastic system composed of a clamped
 
 A small bolt with four masses (nuts) was placed in the middle of the beam to simulate small structural variations. Each mass has 2 grams.
 
-<img src="setup.jpg " width="40%">
+<img src="setup.jpg " width="50%">
 
+The equipment, sensors, and actuators used for the experimental tests are:
 
+  <li> Modal Shop Shaker 2004E</li><br>
+	  <li> Polytec OFV-525/-5000-S modular laser vibrometer</li><br>
+  <li> Dytran load cell model 1022V (IEPE force sensor)</li><br>
+  <li> Three PCB IEPE Accelerometers</li><br>
+  <li> m+p VibPilot acquisition system</li><br>
 
-<img src="damage.jpg " width="40%">
+The shaker was attached 50 mm distant from the clamp. Velocity was measured through the laser vibrometer in the free end of the beam. Three accelerometers were placed in: the driving point, the position of the bolt and the four masses, and in the free end of the beam.
 
+Each experiment generated a mat file with the variables recorded during the modal tests. Table 1 shows the variables included in each file with the respective description.
 
-<img src="tab1.jpg " width="40%">
+<img src="tab1.jpg " width="50%">
 
 
 <img src="tab2.jpg " width="40%">
 
+
+
+<img src="damage.jpg " width="40%">
 
 <img src="tab3.jpg " width="40%">
 
