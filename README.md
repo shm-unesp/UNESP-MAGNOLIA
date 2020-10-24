@@ -70,9 +70,9 @@ This dataset was used in these papers:
 
   <li>Shiki, Sidney B.; da Silva, Samuel; TODD, Michael D. On the application of discrete-time Volterra series for the damage detection problem in initially nonlinear systems. Structural Health Monitoring, v. 16, n. 1, p. 62-78, 2017 https://doi.org/10.1177%2F1475921716662142</li><br>
   
-  <li>Tahara, Lucas Zanovello, A study of the influence of nonlinear behavior on experimental modal analysis, M.Sc. in Mechanical Engineering; S\~ao Paulo State University, Ilha Solteira/SP, Brazil, 2019, http://hdl.handle.net/11449/183481</li><br>
+  <li>Tahara, Lucas Zanovello, A study of the influence of nonlinear behavior on experimental modal analysis, M.Sc. in Mechanical Engineering; São Paulo State University, Ilha Solteira/SP, Brazil, 2019, http://hdl.handle.net/11449/183481</li><br>
 
-  <li>Shiki, Sidney Bruce. Application of Volterra series in nonlinear mechanical system identification and in structural health monitoring problems. PhD Thesis in Mechanical Engineering; S\~ao Paulo State University, Ilha Solteira/SP, Brazil, March 2016, http://hdl.handle.net/11449/137761, </li><br>
+  <li>Shiki, Sidney Bruce. Application of Volterra series in nonlinear mechanical system identification and in structural health monitoring problems. PhD Thesis in Mechanical Engineering; São Paulo State University, Ilha Solteira/SP, Brazil, March 2016, http://hdl.handle.net/11449/137761, </li><br>
 
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
