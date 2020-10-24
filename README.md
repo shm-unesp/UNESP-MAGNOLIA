@@ -65,13 +65,29 @@ The data are still available for non-commercial research under the following ter
 
 This dataset was used in these papers:
 
-  <li>Shiki, Sidney B.; da Silva, Samuel; TODD, Michael D. On the application of discrete-time Volterra series for the damage detection problem in initially nonlinear systems. Structural Health Monitoring, v. 16, n. 1, p. 62-78, 2017.</li><br>
+ <li>Villani, Luis G.G. , da Silva, Samuel, Cunha, Americo, Todd, Michael D. Damage detection in an uncertain nonlinear beam based on stochastic Volterra series: An experimental application, Mechanical Systems and Signal Processing, Volume 128, Pages 463-478, 2019 https://doi.org/10.1016/j.ymssp.2019.03.045</li><br>
 
-  <li>Shiki, Sidney Bruce. Application of Volterra series in nonlinear mechanical system identification and in structural health monitoring problems. PhD Thesis in Mechanical Engineering; S\~ao Paulo State University, Ilha Solteira/SP, Brazil, March 2016.</li><br>
+  <li>Shiki, Sidney B.; da Silva, Samuel; TODD, Michael D. On the application of discrete-time Volterra series for the damage detection problem in initially nonlinear systems. Structural Health Monitoring, v. 16, n. 1, p. 62-78, 2017 https://doi.org/10.1177%2F1475921716662142</li><br>
+  
+  <li>Tahara, Lucas Zanovello, A study of the influence of nonlinear behavior on experimental modal analysis, M.Sc. in Mechanical Engineering; S\~ao Paulo State University, Ilha Solteira/SP, Brazil, 2019, http://hdl.handle.net/11449/183481</li><br>
+
+  <li>Shiki, Sidney Bruce. Application of Volterra series in nonlinear mechanical system identification and in structural health monitoring problems. PhD Thesis in Mechanical Engineering; S\~ao Paulo State University, Ilha Solteira/SP, Brazil, March 2016, http://hdl.handle.net/11449/137761, </li><br>
 
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
 ```
+@article{VILLANI2019463,
+title = "Damage detection in an uncertain nonlinear beam based on stochastic Volterra series: An experimental application",
+journal = "Mechanical Systems and Signal Processing",
+volume = "128",
+pages = "463 - 478",
+year = "2019",
+issn = "0888-3270",
+doi = "https://doi.org/10.1016/j.ymssp.2019.03.045",
+url = "http://www.sciencedirect.com/science/article/pii/S0888327019302250",
+author = "Luis G.G. Villani and Samuel {da Silva} and Americo Cunha and Michael D. Todd",
+}
+
 @article{shiki2017application,
   title={On the application of discrete-time Volterra series for the damage detection problem in initially nonlinear systems},
   author={Shiki, Sidney B and da Silva, Samuel and Todd, Michael D},
@@ -81,13 +97,25 @@ If you are using a LaTeX Editor, you can cite the papers above using these BibTe
   pages={62--78},
   year={2017},
   publisher={SAGE Publications Sage UK: London, England}
+  url = "https://doi.org/10.1177/1475921716662142",
 }
 
-@article{shiki2016application,
+@mastersthesis{Tahara2019,
+  title={A study of the influence of nonlinear behavior on experimental modal analysis},
+  author={Tahara, Lucas Zanovello},
+  year={2019},
+    school ={Universidade Estadual Paulista (UNESP)}
+      note         = {M.Sc. in Mechanical Engineering}
+  url = "http://hdl.handle.net/11449/183481",
+}
+
+@phdthesis{shiki2016application,
   title={Application of Volterra series in nonlinear mechanical system identification and in structural health monitoring problems},
   author={Shiki, Sidney Bruce},
   year={2016},
-  publisher={Universidade Estadual Paulista (UNESP)}
+    school ={Universidade Estadual Paulista (UNESP)}
+      note         = {Ph.D. in Mechanical Engineering}
+  url = "http://hdl.handle.net/11449/137761",
 }
 ```
 __________________________________________________________________________________________________
