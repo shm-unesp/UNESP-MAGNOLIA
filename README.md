@@ -7,6 +7,9 @@ To download the data set of a magneto-elastic system composed of a clamped beam 
 __________________________________________________________________________________________________
 # Description
 
+The current structure consists of a magneto-elastic system composed of a clamped beam interacting with a permanent magnet in mono-stable configurations with hardening behavior. The experimental setup is composed of a cantilever aluminum beam with 300 mm x 19 mm x 3.2 mm. The structure has a small steel mass attached to the free end of the beam and a neodymium magnet with a 2 mm gap to the mass.
+
+A small bolt with four masses (nuts) was placed in the middle of the beam to simulate small structural variations. Each mass has 2 grams.
 
 <img src="setup.jpg " width="40%">
 
