@@ -2,6 +2,7 @@
 
 To download the data set of a magneto-elastic system composed of a clamped beam interacting with a permanent magnet in a mono-stable configuration with hardening behavior:
 
+https://forms.gle/o8XTcQZe5BiNo9PU7
 
 __________________________________________________________________________________________________
 # Description
