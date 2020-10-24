@@ -10,7 +10,7 @@ The current structure consists of a magneto-elastic system composed of a clamped
 
 A small bolt with four masses (nuts) was placed in the middle of the beam to simulate small structural variations. Each mass has 2 grams.
 
-<img src="setup.jpg " width="50%">
+<img src="setup.jpg " width="60%">
 
 The equipment, sensors, and actuators used for the experimental tests are:
 
