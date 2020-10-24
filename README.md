@@ -25,7 +25,7 @@ The shaker was attached 50 mm distant from the clamp. Velocity was measured thro
 
 Each experiment generated a mat file with the variables recorded during the modal tests. Table 1 shows the variables included in each file with the respective description.
 
-<img src="tab1.jpg " width="50%">
+<img src="tab1.jpg " width="60%">
 
 Four different input signals were used to characterize the baseline condition of the structure ("healthy" state): chirp, random noise, sine, and stepped sine excitation:
 
@@ -36,13 +36,13 @@ Four different input signals were used to characterize the baseline condition of
 
 The description of the files of these experiments is presented in Table 2. The character "0pXY" denotes Volts' input level, where "XY" represents the digits after the floating-point.
 
-<img src="tab2.jpg " width="50%">
+<img src="tab2.jpg " width="60%">
 
 The masses were gradually removed from a total of 4 masses to simulate a structural variation. Table 3 shows the structural states simulated in the system, while the figure below exhibits a view of the bolt and nuts in the magneto-elastic system.
 
 <img src="damage.jpg " width="40%">
 
-<img src="tab3.jpg " width="50%">
+<img src="tab3.jpg " width="60%">
 
 For the damage detection, only two signals were used to excite the nonlinear beam:
 
@@ -51,7 +51,7 @@ For the damage detection, only two signals were used to excite the nonlinear bea
 
 The description of the files of these experiments is presented in Table 4. The character "0pXY" denotes Volts' input level, where "XY" represents the digits after the floating-point.
 
-<img src="tab4.jpg " width="50%">
+<img src="tab4.jpg " width="60%">
 
 __________________________________________________________________________________________________
 # Authors
