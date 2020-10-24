@@ -31,20 +31,20 @@ Four different input signals were used to characterize the baseline condition of
 <li> Chirp input from 20 to 50 Hz, with 4096 samples and input levels of: 0.01, 0.09, 0.10, 0.11, 0.12, 0.13, 0.14 and 0.15 V. Each test was repeated 50 times in order to check repeatability</li>
 <li>Random noise input band-pass filtered from 10 to 420 Hz, with 4096 samples and input levels of: 0.01, 0.05, 0.10, 0.11, 0.12, 0.13, 0.14 and 0.15 VRMS. Each test was repeated 50 times in order to check repeatability</li>
 <li>Sine input with a frequency of 20.5 Hz, with 81920 samples and input levels of: 0.01, 0.09, 0.10, 0.11, 0.12, 0.13, 0.14 and 0.15 V</li>
-<li> Stepped sine input from 10 to 40 Hz with steps of 0.5 Hz and total duration of 249856 samples using input levels of: 0.01, 0.05, 0.10, 0.11, 0.12, 0.13, 0.14 and 0.15 V</li>
+<li> Stepped sine input from 10 to 40 Hz with steps of 0.5 Hz and total duration of 249856 samples using input levels of: 0.01, 0.05, 0.10, 0.11, 0.12, 0.13, 0.14 and 0.15 V</li><br>
 
 The description of the files of these experiments is presented in Table 2. The character "0pXY" denotes Volts' input level, where "XY" represents the digits after the floating-point.
 
-<img src="tab2.jpg " width="50%">
+<img src="tab2.jpg " width="60%">
 
-
+The masses were gradually removed from a total of 4 masses to simulate a structural variation. Table 3 shows the structural states simulated in the system, while the figure below exhibits a view of the bolt and nuts in the magneto-elastic system.
 
 <img src="damage.jpg " width="50%">
 
-<img src="tab3.jpg " width="50%">
+<img src="tab3.jpg " width="60%">
 
 
-<img src="tab4.jpg " width="50%">
+<img src="tab4.jpg " width="60%">
 
 __________________________________________________________________________________________________
 # Authors
