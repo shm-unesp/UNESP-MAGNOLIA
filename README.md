@@ -1,4 +1,4 @@
-# UNESP-MAGNOLIA: MAGNetOeLastIc beAm beam from UNESP SHM Lab/Ilha Solteira
+# UNESP-MAGNOLIA: MAGNetOeLastIc beAm from UNESP SHM Lab/Ilha Solteira
 
 To download the data set of a magneto-elastic system composed of a clamped beam interacting with a permanent magnet in a mono-stable configuration with hardening behavior:
 
@@ -8,11 +8,11 @@ ________________________________________________________________________________
 # Description
 
 
-<img src="TestBench.jpg " width="35%">
+<img src="setup.png " width="35%">
 
 
 
-<img src="esquema.png " width="40%">
+<img src="damage.jpg " width="40%">
 
 
 __________________________________________________________________________________________________
