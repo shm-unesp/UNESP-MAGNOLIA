@@ -1,4 +1,4 @@
-# UNESP-MAGNOLIA: MAGNetO-eLastIc beAm from UNESP SHM Lab/Ilha Solteira
+# MAGNOLIA: MAGNetO-eLastIc beAm 
 
 To download the data set of a magneto-elastic system composed of a clamped beam interacting with a permanent magnet in a mono-stable configuration with hardening behavior:
 
