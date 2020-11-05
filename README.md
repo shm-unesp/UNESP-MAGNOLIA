@@ -36,13 +36,13 @@ Four different input signals were used to characterize the baseline condition of
 
 The description of the files of these experiments is presented in Table 2. The character "0pXY" denotes Volts' input level, where "XY" represents the digits after the floating-point.
 
-<img src="tab2.jpg " width="60%">
+<img src="tab2.jpg " width="70%">
 
 The masses were gradually removed from a total of 4 masses to simulate a structural variation. Table 3 shows the structural states simulated in the system, while the figure below exhibits a view of the bolt and nuts in the magneto-elastic system.
 
 <img src="damage.jpg " width="40%">
 
-<img src="tab3.jpg " width="80%">
+<img src="tab3.jpg " width="60%">
 
 For the damage detection, only two signals were used to excite the nonlinear beam:
 
